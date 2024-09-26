@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Created By: Nicolas Delgado
+// I did get outside help in order to repeatedly display the outputs as I was stuck on it
 
 public class Assignment {
 	public static List<List<Integer>> location(int[] [] grid, int row, int col) {
